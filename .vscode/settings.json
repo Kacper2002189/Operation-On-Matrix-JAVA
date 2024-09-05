@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib/l2fprod-common-7.3-20070317/l2fprod-common-7.3/src/com/l2fprod/common/demo",
+        "lib/jcalendar-1.1.1/src/com/toedter/calendar"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
